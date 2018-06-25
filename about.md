@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I am a backend developer currently working at Huawei. I will share some knowledge about backend development here, in English or Chinese. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Familiar with Java back-end development, C++，little bit of Python and Golang. Know the basic front-end skills. Profound knowledge with linux and network programming. Familiar with the majority of all the popular Java middlewares. Interested in distributed system development, and looking forward for a proper opportunity
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Chauncey.ycx@gmail.com](mailto:chauncey.ycx@gmail.com)
