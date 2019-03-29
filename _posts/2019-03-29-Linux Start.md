@@ -2,7 +2,6 @@
 layout: post
 title: 3 ways to create start up daemon in linux!
 ---
-## Creating a script as a service
 Three init script framework available right now. I will describe them one by one. Init is the first process when kernel gets loaded. Then leave the starting up process for process like systemd or systemvinit
 ### 1. System V Init
 System V Init comes around since 1983. Then is became de defacto choice of all the POSIX like systsem. The key to SystemVInit is inittab. Inittabs organise the process into different run-levels:
