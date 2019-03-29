@@ -2,12 +2,7 @@
 layout: post
 title: 3 ways to create start up daemon in linux!
 ---
-
-[Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.](## Creating a script as a service
+## Creating a script as a service
 Three init script framework available right now. I will describe them one by one. Init is the first process when kernel gets loaded. Then leave the starting up process for process like systemd or systemvinit
 ### 1. System V Init
 System V Init comes around since 1983. Then is became de defacto choice of all the POSIX like systsem. The key to SystemVInit is inittab. Inittabs organise the process into different run-levels:
